@@ -88,6 +88,11 @@ h3 {
   padding: 0 35px;
 }
 
+.interests-list {
+  columns: 3;
+  padding: 0 45px;
+}
+
 .experience-list {
   padding-left: 35px;
 }
